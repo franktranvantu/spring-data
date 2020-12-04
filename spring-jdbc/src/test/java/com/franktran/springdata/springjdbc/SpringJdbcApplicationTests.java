@@ -1,4 +1,4 @@
-package com.franktran.springdata.springdatajdbc;
+package com.franktran.springdata.springjdbc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

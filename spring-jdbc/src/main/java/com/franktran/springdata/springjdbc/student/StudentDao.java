@@ -1,4 +1,4 @@
-package com.franktran.springdata.springdatajdbc.student;
+package com.franktran.springdata.springjdbc.student;
 
 import org.springframework.dao.support.DataAccessUtils;
 import org.springframework.jdbc.core.JdbcTemplate;

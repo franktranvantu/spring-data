@@ -1,4 +1,4 @@
-package com.franktran.springdata.springdatajdbc.student;
+package com.franktran.springdata.springjdbc.student;
 
 import java.util.UUID;
 
